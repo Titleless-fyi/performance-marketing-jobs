@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated October 29, 2026** · 20 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated October 30, 2026** · 20 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Growth Marketing Manager, Paid Social](https://www.titleless.fyi/companies/thumbtack/jobs/growth-marketing-manager-paid-social/) | [Thumbtack](https://www.titleless.fyi/companies/thumbtack/) | Toronto, ON | Remote \(Canada\) | — | Sep 21, 2026 |
 | [Founding Growth Lead, Paid Marketing](https://www.titleless.fyi/companies/titan/jobs/founding-growth-lead-paid-marketing/) | Titan | New York, NY | On-site | $150,000–$215,000 USD per year | Sep 21, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated October 29, 2026; eligibility checked October 29, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated October 30, 2026; eligibility checked October 30, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current performance marketing roles: [Performance Marketing jobs on Titleless.fyi](https://www.titleless.fyi/performance-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
