@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated October 30, 2026** · 20 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 2, 2026** · 19 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,6 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Director of Growth](https://www.titleless.fyi/companies/scale-media/jobs/director-of-growth/) | [Scale Media](https://www.titleless.fyi/companies/scale-media/) | Burbank, CA | Remote \(US\) | — | Oct 7, 2026 |
 | [Digital Marketing Manager \(Paid Media, CRO &amp; Programmatic\)](https://www.titleless.fyi/companies/medical-air-services-association/jobs/digital-marketing-manager-paid-media-cro-and-programmatic/) | Medical Air Services Association, Inc | Sunrise, FL | Hybrid | — | Oct 6, 2026 |
 | [Performance Marketing Specialist](https://www.titleless.fyi/companies/good-sportsman-marketing/jobs/performance-marketing-specialist/) | [Good Sportsman Marketing LLC](https://www.titleless.fyi/companies/good-sportsman-marketing/) | Irving, TX | On-site | — | Oct 5, 2026 |
-| [Senior Performance Marketing Manager](https://www.titleless.fyi/companies/tapcheck/jobs/senior-performance-marketing-manager/) | [Tapcheck](https://www.titleless.fyi/companies/tapcheck/) | Plano, TX | Remote \(US\) | — | Oct 5, 2026 |
 | [Director of Paid Media](https://www.titleless.fyi/companies/expressable/jobs/director-of-paid-media/) | [Expressable](https://www.titleless.fyi/companies/expressable/) | United States | Remote \(United States\) | — | Oct 2, 2026 |
 | [Performance Marketing Manager, Google &amp; YouTube](https://www.titleless.fyi/companies/ground-news/jobs/performance-marketing-manager-google-and-youtube/) | [Ground News](https://www.titleless.fyi/companies/ground-news/) | Kitchener, ON | Remote \(Canada\) | — | Oct 2, 2026 |
 | [Paid Media Specialist](https://www.titleless.fyi/companies/titan-brands/jobs/paid-media-specialist/) | [Titan Brands](https://www.titleless.fyi/companies/titan-brands/) | Nashville, TN | Hybrid | — | Sep 30, 2026 |
@@ -29,7 +28,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Growth Marketing Manager, Paid Social](https://www.titleless.fyi/companies/thumbtack/jobs/growth-marketing-manager-paid-social/) | [Thumbtack](https://www.titleless.fyi/companies/thumbtack/) | Toronto, ON | Remote \(Canada\) | — | Sep 21, 2026 |
 | [Founding Growth Lead, Paid Marketing](https://www.titleless.fyi/companies/titan/jobs/founding-growth-lead-paid-marketing/) | Titan | New York, NY | On-site | $150,000–$215,000 USD per year | Sep 21, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated October 30, 2026; eligibility checked October 30, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 2, 2026; eligibility checked November 2, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current performance marketing roles: [Performance Marketing jobs on Titleless.fyi](https://www.titleless.fyi/performance-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
