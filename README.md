@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 7, 2026** · 28 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 9, 2026** · 28 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Performance Marketing Manager](https://www.titleless.fyi/companies/vercel/jobs/performance-marketing-manager/) | [Vercel](https://www.titleless.fyi/companies/vercel/) | San Francisco, CA / New York, NY / Austin, TX | Hybrid | — | Jun 8, 2026 |
 | [Director of Performance Marketing](https://www.titleless.fyi/companies/inspira-education/jobs/director-of-performance-marketing/) | Inspira Education | New York, NY | On-site | — | May 29, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 7, 2026; eligibility checked November 7, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 9, 2026; eligibility checked November 9, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current performance marketing roles: [Performance Marketing jobs on Titleless.fyi](https://www.titleless.fyi/performance-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
