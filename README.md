@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 9, 2026** · 28 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 9, 2026** · 23 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -14,14 +14,9 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Senior Director of Performance Marketing](https://www.titleless.fyi/companies/duolingo/jobs/senior-director-of-performance-marketing/) | [Duolingo](https://www.titleless.fyi/companies/duolingo/) | New York, NY | On-site | — | Oct 16, 2026 |
 | [Manager, Paid Search](https://www.titleless.fyi/companies/wpp-media/jobs/manager-paid-search/) | [WPP Media](https://www.titleless.fyi/companies/wpp-media/) | New York, NY | Hybrid | — | Oct 14, 2026 |
 | [Paid Social Media Manager](https://www.titleless.fyi/companies/whalar-group/jobs/paid-social-media-manager/) | [Whalar Group](https://www.titleless.fyi/companies/whalar-group/) | New York, NY | On-site | — | Oct 13, 2026 |
-| [Valnet \| Director of Performance Marketing](https://www.titleless.fyi/companies/valnet/jobs/director-of-performance-marketing/) | [Valnet Inc.](https://www.titleless.fyi/companies/valnet/) | Montreal, QC | On-site | — | Oct 13, 2026 |
 | [Director of Performance Marketing](https://www.titleless.fyi/companies/flosports/jobs/director-of-performance-marketing/) | [FloSports, Inc.](https://www.titleless.fyi/companies/flosports/) | Austin, TX | On-site | — | Oct 12, 2026 |
 | [Senior Director of Performance Marketing](https://www.titleless.fyi/companies/flosports/jobs/senior-director-of-performance-marketing/) | [FloSports, Inc.](https://www.titleless.fyi/companies/flosports/) | Austin, TX | On-site | — | Oct 12, 2026 |
-| [Senior Growth Marketing Manager](https://www.titleless.fyi/companies/spot-and-tango/jobs/senior-growth-marketing-manager/) | [Spot &amp; Tango](https://www.titleless.fyi/companies/spot-and-tango/) | New York, NY | Hybrid | — | Oct 9, 2026 |
 | [Director Paid Media](https://www.titleless.fyi/companies/sphere-entertainment/jobs/director-paid-media/) | [Sphere Entertainment Group, LLC](https://www.titleless.fyi/companies/sphere-entertainment/) | New York, NY | On-site | — | Oct 8, 2026 |
-| [Director of Growth](https://www.titleless.fyi/companies/scale-media/jobs/director-of-growth/) | [Scale Media](https://www.titleless.fyi/companies/scale-media/) | Burbank, CA | Remote \(US\) | — | Oct 7, 2026 |
-| [Digital Marketing Manager \(Paid Media, CRO &amp; Programmatic\)](https://www.titleless.fyi/companies/medical-air-services-association/jobs/digital-marketing-manager-paid-media-cro-and-programmatic/) | Medical Air Services Association, Inc | Sunrise, FL | Hybrid | — | Oct 6, 2026 |
-| [Performance Marketing Specialist](https://www.titleless.fyi/companies/good-sportsman-marketing/jobs/performance-marketing-specialist/) | [Good Sportsman Marketing LLC](https://www.titleless.fyi/companies/good-sportsman-marketing/) | Irving, TX | On-site | — | Oct 5, 2026 |
 | [B2C Acquisition Marketing Manager](https://www.titleless.fyi/companies/betterment/jobs/b2c-acquisition-marketing-manager/) | [Betterment](https://www.titleless.fyi/companies/betterment/) | New York, NY | Hybrid | — | Oct 5, 2026 |
 | [Senior Manager, Paid Media](https://www.titleless.fyi/companies/bubble-skincare/jobs/senior-manager-paid-media/) | [Bubble Skincare](https://www.titleless.fyi/companies/bubble-skincare/) | New York, NY | Hybrid | — | Oct 2, 2026 |
 | [Director of Paid Media](https://www.titleless.fyi/companies/expressable/jobs/director-of-paid-media/) | [Expressable](https://www.titleless.fyi/companies/expressable/) | United States | Remote \(United States\) | — | Oct 2, 2026 |
