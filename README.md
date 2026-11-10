@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 10, 2026** · 23 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 10, 2026** · 27 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -15,11 +15,15 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Media Buyer, Emerging Channels - Growth Marketing](https://www.titleless.fyi/companies/applovin/jobs/media-buyer-emerging-channels-growth-marketing/) | [AppLovin](https://www.titleless.fyi/companies/applovin/) | New York, NY / Los Angeles, CA / Santa Monica, CA | On-site | — | Oct 30, 2026 |
 | [Performance Marketing Lead](https://www.titleless.fyi/companies/duolingo/jobs/performance-marketing-lead/) | [Duolingo](https://www.titleless.fyi/companies/duolingo/) | New York, NY | On-site | — | Oct 26, 2026 |
 | [Performance Marketing Associate](https://www.titleless.fyi/companies/campus/jobs/performance-marketing-associate/) | Campus | New York, NY | Hybrid | — | Oct 26, 2026 |
+| [Sr. Director, Acquisition Marketing](https://www.titleless.fyi/companies/ninjatrader/jobs/sr-director-acquisition-marketing/) | [NinjaTrader](https://www.titleless.fyi/companies/ninjatrader/) | Chicago, IL | Hybrid | — | Oct 23, 2026 |
 | [Performance Marketing Lead](https://www.titleless.fyi/companies/packz/jobs/performance-marketing-lead/) | Packz | New York, NY | On-site | $250,000–$350,000 USD per year | Oct 22, 2026 |
+| [Performance Marketing Manager](https://www.titleless.fyi/companies/optery/jobs/performance-marketing-manager/) | [Optery, Inc.](https://www.titleless.fyi/companies/optery/) | United States | Remote \(United States\) | $130,000–$140,000 USD per year | Oct 22, 2026 |
+| [Performance Marketing Manager](https://www.titleless.fyi/companies/mural/jobs/performance-marketing-manager/) | [Mural](https://www.titleless.fyi/companies/mural/) | United States | Remote \(United States\) | $131,840–$164,800 USD per year | Oct 16, 2026 |
 | [Manager, Paid Search](https://www.titleless.fyi/companies/wpp-media/jobs/manager-paid-search/) | [WPP Media](https://www.titleless.fyi/companies/wpp-media/) | New York, NY | Hybrid | — | Oct 14, 2026 |
 | [Director of Performance Marketing](https://www.titleless.fyi/companies/flosports/jobs/director-of-performance-marketing/) | [FloSports, Inc.](https://www.titleless.fyi/companies/flosports/) | Austin, TX | On-site | — | Oct 12, 2026 |
 | [Senior Director of Performance Marketing](https://www.titleless.fyi/companies/flosports/jobs/senior-director-of-performance-marketing/) | [FloSports, Inc.](https://www.titleless.fyi/companies/flosports/) | Austin, TX | On-site | — | Oct 12, 2026 |
 | [Director Paid Media](https://www.titleless.fyi/companies/sphere-entertainment/jobs/director-paid-media/) | [Sphere Entertainment Group, LLC](https://www.titleless.fyi/companies/sphere-entertainment/) | New York, NY | On-site | — | Oct 8, 2026 |
+| [Paid Ads &amp; SEO Specialist: Google Ads, Meta Ads \(Part-Time, Remote\)](https://www.titleless.fyi/companies/nory/jobs/paid-ads-and-seo-specialist-google-ads-meta-ads-part-time-remote/) | [NORY](https://www.titleless.fyi/companies/nory/) | New York | Remote \(United States\) | $25–$40 USD per hour | Oct 7, 2026 |
 | [B2C Acquisition Marketing Manager](https://www.titleless.fyi/companies/betterment/jobs/b2c-acquisition-marketing-manager/) | [Betterment](https://www.titleless.fyi/companies/betterment/) | New York, NY | Hybrid | — | Oct 5, 2026 |
 | [Senior Manager, Paid Media](https://www.titleless.fyi/companies/bubble-skincare/jobs/senior-manager-paid-media/) | [Bubble Skincare](https://www.titleless.fyi/companies/bubble-skincare/) | New York, NY | Hybrid | — | Oct 2, 2026 |
 | [Director of Paid Media](https://www.titleless.fyi/companies/expressable/jobs/director-of-paid-media/) | [Expressable](https://www.titleless.fyi/companies/expressable/) | United States | Remote \(United States\) | — | Oct 2, 2026 |
