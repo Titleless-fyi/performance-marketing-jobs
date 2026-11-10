@@ -4,12 +4,13 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 10, 2026** · 27 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 10, 2026** · 28 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
 | [Paid Social Media Manager](https://www.titleless.fyi/companies/whalar-group/jobs/paid-social-media-manager/) | Whalar | New York, NY | On-site | — | Nov 4, 2026 |
 | [Senior Manager, User Acquisition](https://www.titleless.fyi/companies/fanatics-collectibles/jobs/senior-manager-user-acquisition/) | [Fanatics Collectibles](https://www.titleless.fyi/companies/fanatics-collectibles/) | New York, NY | On-site | — | Nov 4, 2026 |
+| [Growth Marketing Sr. Associate, New Channels](https://www.titleless.fyi/companies/acorns/jobs/growth-marketing-sr-associate-new-channels/) | [Acorns](https://www.titleless.fyi/companies/acorns/) | United States | Remote \(United States\) | — | Nov 3, 2026 |
 | [Senior Director of Performance Marketing](https://www.titleless.fyi/companies/duolingo/jobs/senior-director-of-performance-marketing/) | [Duolingo](https://www.titleless.fyi/companies/duolingo/) | New York, NY | On-site | — | Nov 2, 2026 |
 | [Performance Marketing Manager](https://www.titleless.fyi/companies/vercel/jobs/performance-marketing-manager/) | [Vercel](https://www.titleless.fyi/companies/vercel/) | San Francisco, CA / New York, NY / Austin, TX | Hybrid | — | Oct 30, 2026 |
 | [Media Buyer, Emerging Channels - Growth Marketing](https://www.titleless.fyi/companies/applovin/jobs/media-buyer-emerging-channels-growth-marketing/) | [AppLovin](https://www.titleless.fyi/companies/applovin/) | New York, NY / Los Angeles, CA / Santa Monica, CA | On-site | — | Oct 30, 2026 |
