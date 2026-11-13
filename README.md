@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 12, 2026** · 28 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 13, 2026** · 27 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -20,7 +20,6 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Performance Marketing Lead](https://www.titleless.fyi/companies/packz/jobs/performance-marketing-lead/) | Packz | New York, NY | On-site | $250,000–$350,000 USD per year | Oct 22, 2026 |
 | [Performance Marketing Manager](https://www.titleless.fyi/companies/optery/jobs/performance-marketing-manager/) | [Optery, Inc.](https://www.titleless.fyi/companies/optery/) | United States | Remote \(United States\) | $130,000–$140,000 USD per year | Oct 22, 2026 |
 | [Performance Marketing Manager](https://www.titleless.fyi/companies/mural/jobs/performance-marketing-manager/) | [Mural](https://www.titleless.fyi/companies/mural/) | United States | Remote \(United States\) | $131,840–$164,800 USD per year | Oct 16, 2026 |
-| [Manager, Paid Search](https://www.titleless.fyi/companies/wpp-media/jobs/manager-paid-search/) | [WPP Media](https://www.titleless.fyi/companies/wpp-media/) | New York, NY | Hybrid | — | Oct 14, 2026 |
 | [Director of Performance Marketing](https://www.titleless.fyi/companies/flosports/jobs/director-of-performance-marketing/) | [FloSports, Inc.](https://www.titleless.fyi/companies/flosports/) | Austin, TX | On-site | — | Oct 12, 2026 |
 | [Senior Director of Performance Marketing](https://www.titleless.fyi/companies/flosports/jobs/senior-director-of-performance-marketing/) | [FloSports, Inc.](https://www.titleless.fyi/companies/flosports/) | Austin, TX | On-site | — | Oct 12, 2026 |
 | [Director Paid Media](https://www.titleless.fyi/companies/sphere-entertainment/jobs/director-paid-media/) | [Sphere Entertainment Group, LLC](https://www.titleless.fyi/companies/sphere-entertainment/) | New York, NY | On-site | — | Oct 8, 2026 |
@@ -37,7 +36,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Performance Marketing Principal](https://www.titleless.fyi/companies/via/jobs/performance-marketing-principal/) | [Via](https://www.titleless.fyi/companies/via/) | New York, NY | On-site | — | Jul 29, 2026 |
 | [Director of Performance Marketing](https://www.titleless.fyi/companies/inspira-education/jobs/director-of-performance-marketing/) | Inspira Education | New York, NY | On-site | — | May 29, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 12, 2026; eligibility checked November 12, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 13, 2026; eligibility checked November 13, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current performance marketing roles: [Performance Marketing jobs on Titleless.fyi](https://www.titleless.fyi/performance-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
