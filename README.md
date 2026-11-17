@@ -4,7 +4,7 @@ Roles that plan, buy and optimize paid media, including paid search, paid social
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description and how the role was classified. Apply goes straight to the employer's application.
 
-**Updated November 16, 2026** · 24 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 17, 2026** · 24 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 7 of 24 remote · 5 with employer-listed salary
 
@@ -27,7 +27,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [B2C Acquisition Marketing Manager](https://www.titleless.fyi/companies/betterment/jobs/b2c-acquisition-marketing-manager/) | [Betterment](https://www.titleless.fyi/companies/betterment/) | New York, NY | Hybrid | — | Oct 5, 2026 | [Apply](<https://www.betterment.com/careers/current-openings/job?gh_jid=8246279&gh_jid=8246279&utm_source=titleless_fyi&utm_medium=referral>) |
 | [Senior Manager, Paid Media](https://www.titleless.fyi/companies/bubble-skincare/jobs/senior-manager-paid-media/) | [Bubble Skincare](https://www.titleless.fyi/companies/bubble-skincare/) | New York, NY | Hybrid | — | Oct 2, 2026 | [Apply](<https://job-boards.greenhouse.io/bubbleskincare/jobs/5255962007?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Director of Paid Media](https://www.titleless.fyi/companies/expressable/jobs/director-of-paid-media/) | [Expressable](https://www.titleless.fyi/companies/expressable/) | United States | Remote \(United States\) | — | Oct 2, 2026 | [Apply](<https://jobs.ashbyhq.com/expressable/abc67b83-1915-4ed4-bdbb-79be88cc49da?utm_source=titleless_fyi&utm_medium=referral>) |
-| [Performance Marketing Manager, Google &amp; YouTube](https://www.titleless.fyi/companies/ground-news/jobs/performance-marketing-manager-google-and-youtube/) | [Ground News](https://www.titleless.fyi/companies/ground-news/) | Kitchener, ON | Remote \(Canada\) | — | Oct 2, 2026 | [Apply](<https://jobs.ashbyhq.com/groundnews/bbc4a687-e0f1-4e23-8cd4-412a80f23f78?utm_source=titleless_fyi&utm_medium=referral>) |
+| [Performance Marketing Manager, Google &amp; YouTube](https://www.titleless.fyi/companies/ground-news/jobs/performance-marketing-manager-google-and-youtube/) | [Ground News](https://www.titleless.fyi/companies/ground-news/) | Canada | Remote \(Canada\) | — | Oct 2, 2026 | [Apply](<https://jobs.ashbyhq.com/groundnews/bbc4a687-e0f1-4e23-8cd4-412a80f23f78?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Performance Marketing Manager](https://www.titleless.fyi/companies/airgarage/jobs/performance-marketing-manager/) | [AirGarage](https://www.titleless.fyi/companies/airgarage/) | United States | Remote \(United States\) | $125,000–$160,000 USD per year | Sep 30, 2026 | [Apply](<https://jobs.ashbyhq.com/airgarage/bd2deb3a-38d1-4b1b-8544-7f0d55e07e47?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Senior Paid Media Manager](https://www.titleless.fyi/companies/acquisition-com/jobs/senior-paid-media-manager/) | [Acquisition.com](https://www.titleless.fyi/companies/acquisition-com/) | United States | Remote \(United States\) | $80,000–$100,000 USD per year | Sep 29, 2026 | [Apply](<https://jobs.ashbyhq.com/acquisition/acde3355-dd4d-4c26-a01e-f0905d5489f8?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Head of Performance Marketing](https://www.titleless.fyi/companies/coram-ai/jobs/head-of-performance-marketing/) | [Coram AI](https://www.titleless.fyi/companies/coram-ai/) | Sunnyvale, CA | On-site | — | Sep 29, 2026 | [Apply](<https://jobs.ashbyhq.com/coram-ai/6a343c2e-52d0-4747-902a-a06aa1cba833?utm_source=titleless_fyi&utm_medium=referral>) |
@@ -35,7 +35,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Performance Marketing Principal](https://www.titleless.fyi/companies/via/jobs/performance-marketing-principal/) | [Via](https://www.titleless.fyi/companies/via/) | New York, NY | On-site | — | Jul 29, 2026 | [Apply](<https://job-boards.greenhouse.io/via/jobs/8656248002?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Director of Performance Marketing](https://www.titleless.fyi/companies/inspira-education/jobs/director-of-performance-marketing/) | Inspira Education | New York, NY | On-site | — | May 29, 2026 | [Apply](<https://job-boards.greenhouse.io/inspiraeducation/jobs/5236298008?utm_source=titleless_fyi&utm_medium=referral>) |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 16, 2026; eligibility checked November 16, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 17, 2026; eligibility checked November 17, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current performance marketing roles: [Performance Marketing jobs on Titleless.fyi](https://www.titleless.fyi/performance-marketing-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
